@@ -1,0 +1,22 @@
+/* add your CSS here */
+
+
+#interesting { font-style: italic;}
+
+li span {font-weight: bold;}
+
+ul {list-style: none;}
+
+#all {
+  border: 2px solid Gray;
+  width:345px;
+  background-color: rgb(220, 220, 220);
+    }
+
+#info {
+  border: 1px solid Gray;
+  width: 310px;
+  background-color: rgb(240, 240, 240);
+      }
+
+h3, img, #info { padding: 5px; margin: 10px;}

@@ -1,0 +1,1 @@
+# This is a project is a part of learing HTML and CSS in Udacity course
